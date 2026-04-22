@@ -1,28 +1,25 @@
-# Age Calculator (C Project)
+# Age Calculator (C Program)
 
-This project is a simple **Age Calculator program written in C**.
-The program calculates a person's age based on the provided date of birth and currect date.
-
----
+This is a simple Age Calculator program written in C.  
+The program calculates the user's age based on the date of birth entered and current date.
 
 ## Features
 
-* Takes user's birth date as input
-* Calculates age
-* Simple command-line interface
-* Beginner-friendly C program
-
----
+- Takes date of birth as input
+- Calculates current age
+- Displays age in years
+- Simple command line program
 
 ## Technologies Used
 
-* C Programming Language
+- C Programming Language
 
----
+## Program Output
 
+![Program Run](assets/program_run.png)
 
+![Example Output](assets/output_example.png)
 
 ## Author
 
 Rifaq Ajmal
-BS Computer Science Student
