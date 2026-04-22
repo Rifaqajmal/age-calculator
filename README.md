@@ -1,7 +1,7 @@
 # Age Calculator (C Project)
 
 This project is a simple **Age Calculator program written in C**.
-The program calculates a person's age based on the provided date of birth.
+The program calculates a person's age based on the provided date of birth and currect date.
 
 ---
 
@@ -20,21 +20,7 @@ The program calculates a person's age based on the provided date of birth.
 
 ---
 
-## How to Run
 
-1. Compile the program:
-
-```
-gcc age_calculator.c -o age_calculator
-```
-
-2. Run the program:
-
-```
-./age_calculator
-```
-
----
 
 ## Author
 
